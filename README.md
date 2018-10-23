@@ -1,5 +1,5 @@
 # Bin [![Build Status](https://travis-ci.org/cferdinandi/bin.svg)](https://travis-ci.org/cferdinandi/bin)
-A tiny `localStorage` and `sessionStorage` helper library.
+A tiny (< 1kb) `localStorage` and `sessionStorage` helper library.
 
 It automatically parses objects and arrays into strings (and back). It also let's you validate and expire `localStorage` data after a set period of time.
 
