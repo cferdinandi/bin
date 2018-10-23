@@ -162,7 +162,7 @@ Make sure these are installed first.
 
 ## Browser Compatibility
 
-Smooth Scroll works in all modern browsers, and IE 8 and above.
+Bin works in all modern browsers, and IE 8 and above.
 
 
 
