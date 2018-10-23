@@ -32,13 +32,13 @@ You can also use the [jsDelivr CDN](https://cdn.jsdelivr.net/gh/cferdinandi/bin/
 <script src="https://cdn.jsdelivr.net/gh/cferdinandi/bin/dist/bin.min.js"></script>
 
 <!-- Get minor updates and patch fixes within a major version -->
-<script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@1/dist/bin.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/cferdinandi/bin@1/dist/bin.min.js"></script>
 
 <!-- Get patch fixes within a minor version -->
-<script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@1.0/dist/bin.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/cferdinandi/bin@1.0/dist/bin.min.js"></script>
 
 <!-- Get a specific version -->
-<script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@1.0.0/dist/bin.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/cferdinandi/bin@1.0.0/dist/bin.min.js"></script>
 ```
 
 
