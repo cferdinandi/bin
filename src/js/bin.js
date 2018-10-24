@@ -21,7 +21,6 @@
 		if (!id) throw new Error('Please provide an ID for your Bin.');
 		this.id = id;
 		this.storage = session ? sessionStorage : localStorage;
-		this.string = false;
 	};
 
 	/**

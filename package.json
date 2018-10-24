@@ -1,6 +1,6 @@
 {
 	"name": "bin",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "A tiny localStorage library",
 	"main": "./dist/bin.min.js",
 	"author": {

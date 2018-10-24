@@ -1,5 +1,5 @@
 /*!
- * bin v0.0.1: A tiny localStorage library
+ * bin v0.0.2: A tiny localStorage library
  * (c) 2018 Chris Ferdinandi
  * MIT License
  * http://github.com/cferdinandi/bin
@@ -28,7 +28,6 @@
 		if (!id) throw new Error('Please provide an ID for your Bin.');
 		this.id = id;
 		this.storage = session ? sessionStorage : localStorage;
-		this.string = false;
 	};
 
 	/**
