@@ -1,6 +1,7 @@
 /*!
- * bin v0.0.2: A tiny localStorage library
- * (c) 2018 Chris Ferdinandi
+ * storagebinjs v0.0.2
+ * A tiny localStorage library
+ * (c) 2019 Chris Ferdinandi
  * MIT License
  * http://github.com/cferdinandi/bin
  */

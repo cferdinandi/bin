@@ -1,5 +1,5 @@
 {
-	"name": "bin",
+	"name": "storagebinjs",
 	"version": "0.0.2",
 	"description": "A tiny localStorage library",
 	"main": "./dist/bin.min.js",
