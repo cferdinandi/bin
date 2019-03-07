@@ -3,6 +3,8 @@ A tiny (< 1kb) `localStorage` and `sessionStorage` helper library.
 
 It automatically parses objects and arrays into strings (and back). It also let's you validate and expire `localStorage` data after a set period of time.
 
+[Installation](#installation) | [API](#api) | [Browser Compatibility](#browser-compatibility) | [License](#license)
+
 <hr>
 
 ### Want to learn how to write your own vanilla JS libraries? Check out my [Vanilla JS Pocket Guides](https://vanillajsguides.com/) or join the [Vanilla JS Academy](https://vanillajsacademy.com) and level-up as a web developer. 🚀
@@ -10,7 +12,7 @@ It automatically parses objects and arrays into strings (and back). It also let'
 <hr>
 
 
-## Installing Bin
+## Installation
 
 Compiled and production-ready code can be found in the `dist` directory. The `src` directory contains development code.
 
@@ -43,7 +45,7 @@ You can also use the [jsDelivr CDN](https://cdn.jsdelivr.net/gh/cferdinandi/bin/
 
 
 
-## Methods
+## API
 
 Before working with Bin, you need to instantiate a new instance. Pass in the ID you would like to use for your `localStorage`/`sessionStorage` data as an argument.
 
@@ -137,26 +139,6 @@ Remove data from storage. The instance will remain available, but the data will 
 ```js
 myBin.remove();
 ```
-
-
-
-## Working with the Source Files
-
-If you would prefer, you can work with the development code in the `src` directory using the included [Gulp build system](http://gulpjs.com/). This compiles, lints, and minifies code.
-
-### Dependencies
-Make sure these are installed first.
-
-* [Node.js](http://nodejs.org)
-* [Gulp](http://gulpjs.com) `sudo npm install -g gulp`
-
-### Quick Start
-
-1. In bash/terminal/command line, `cd` into your project directory.
-2. Run `npm install` to install required files.
-3. When it's done installing, run one of the task runners to get going:
-	* `gulp` manually compiles files.
-	* `gulp watch` automatically compiles files when changes are made and applies changes using [LiveReload](http://livereload.com/).
 
 
 
