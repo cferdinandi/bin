@@ -43,6 +43,14 @@ You can also use the [jsDelivr CDN](https://cdn.jsdelivr.net/gh/cferdinandi/bin/
 <script src="https://cdn.jsdelivr.net/gh/cferdinandi/bin@1.0.0/dist/bin.min.js"></script>
 ```
 
+**NPM**
+
+You can also use NPM (or your favorite package manager).
+
+```bash
+npm install storagebinjs
+```
+
 
 
 ## API
