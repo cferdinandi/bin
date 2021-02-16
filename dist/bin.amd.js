@@ -1,6 +1,5 @@
 /*! Bin v1.0.0 | (c) 2021 Chris Ferdinandi | MIT License | http://github.com/cferdinandi/bin */
-var Bin = (function () {
-	'use strict';
+define(function () { 'use strict';
 
 	/**
 	 * Check if an expiration date has past or not
@@ -79,4 +78,4 @@ var Bin = (function () {
 
 	return Bin;
 
-}());
+});
